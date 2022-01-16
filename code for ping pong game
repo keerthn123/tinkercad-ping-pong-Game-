@@ -1,9 +1,9 @@
 /*
-  Title 		: Arduino UNO Ping Pong Game v2.0
-  Programmed by	: K.V.KEERTHANREDDY
+  Title 		: Arduino UNO Ping Pong Game 
+  Programmed by	        : Group Project
   Place			: KADAPA, A.P
-  Created on	:  14-12-2021
-  Last edit 	: 14-12-2021
+  Created on	        :  14-12-2021
+  Last edit 	        : 16-01-2021
 */
 
 // include the LiquidCrystal library
